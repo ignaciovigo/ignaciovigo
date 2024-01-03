@@ -15,7 +15,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I'm Web Developer Eager to Enter the Professional Programming Arena
+### I'm Web Developer Student
 - 🔭 I’m currently working on honing my web development skills and crafting websites
 - 🌱 I’m currently learning and exploring the realms of MERN Stack Development
 - 👯 I’m looking to collaborate with fellow Developers to enhance my knowledge and contribute to exciting projects
